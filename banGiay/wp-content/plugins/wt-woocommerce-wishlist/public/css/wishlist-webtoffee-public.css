@@ -1,0 +1,27 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.wt-wishlist-button, .wt-wishlist-button:hover {
+    background-repeat: no-repeat, repeat;
+    background-size: 80%;
+    background-position: center;
+    background-color: transparent;
+    height: 55px;
+    width: 55px;
+    margin: 0 15px;
+    /*vertical-align: top;*/
+}
+.webtoffee_wishlist,.webtoffee_wishlist:hover {
+    background-image: url("../images/unfavourite.png");
+}
+.webtoffee_wishlist_remove,.webtoffee_wishlist_remove:hover {
+   background-image: url("../images/favourite.png");
+}
+.entry-summary .cart {
+    display: flex;
+    align-items: center;
+}
+.single_variation_wrap{
+    display: inline-block;
+}

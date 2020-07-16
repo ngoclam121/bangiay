@@ -1,0 +1,16 @@
+2020-07-15T06:02:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8392704 bytes) in E:\xampp\htdocs\banGiay\wp-includes\functions.php on line 3890
+
+2020-07-15T09:45:01+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 65536 bytes) in E:\xampp\htdocs\banGiay\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 265
+
+2020-07-15T09:45:11+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 114688 bytes) in E:\xampp\htdocs\banGiay\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Woo_Checkout.php on line 1103
+
+2020-07-15T09:45:15+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) in E:\xampp\htdocs\banGiay\wp-content\plugins\premium-addons-for-elementor\widgets\premium-pricing-table.php on line 1022
+
+2020-07-15T09:51:20+00:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 1024000 bytes) in E:\xampp\htdocs\banGiay\wp-includes\class.wp-scripts.php on line 403
+
+2020-07-15T09:51:58+00:00 CRITICAL Out of memory (allocated 25165824) (tried to allocate 1024000 bytes) in E:\xampp\htdocs\banGiay\wp-includes\class.wp-scripts.php on line 403
+
+2020-07-15T09:54:12+00:00 CRITICAL Out of memory (allocated 25165824) (tried to allocate 1011712 bytes) in E:\xampp\htdocs\banGiay\wp-includes\class.wp-scripts.php on line 458
+
+2020-07-15T09:55:39+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8392704 bytes) in E:\xampp\htdocs\banGiay\wp-includes\functions.php on line 3890
+
